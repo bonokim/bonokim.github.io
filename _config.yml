@@ -6,7 +6,7 @@ author:             "김보노"
 baseurl:            "/"
 url:                "https://bonokim.github.io"
 locale:             "ko_KR"
-thumbnail:          "/img\thumbnail.jpg"
+thumbnail:          "/img/thumbnail.jpg"
 
 # Social Profiles
 twitter_username:   twitter_username
