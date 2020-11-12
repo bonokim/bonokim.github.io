@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bonokim.github.io//sitemap.xml
+
+DaumWebMasterTool:9bdfc970793a9bb76335c630e178e019b71cc63dd31ba8c69014e45c810b6e84:AjqBsM5N9OwqdGhcHVi0YA==
